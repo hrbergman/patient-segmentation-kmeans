@@ -8,6 +8,6 @@ A clustering analysis grouping hospital patients by health, utilization, and cos
 - Measured cluster quality with a silhouette score of 0.22 and used a PCA projection to show one well-separated cluster and two heavily overlapping ones
 - Summarized each cluster's average profile to translate results into patient groups
 
-[Documentation](https://github.com/hrbergman/postgresql-customer-services-query/blob/main/postgresql-customer-services-query/data-acquisition-documentation.pdf)
+[Documentation](https://github.com/hrbergman/patient-segmentation-kmeans/blob/main/patient-segmentation-kmeans/k-means-clustering-documentation.pdf)
 | 
-[Video Presentation](https://youtu.be/jKOE0cG68rc)
+[Video Presentation](https://youtu.be/xVrCTVaxoCE)
